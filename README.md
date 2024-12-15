@@ -1,7 +1,7 @@
 ## CustomTTT ⚡
 
 <!--
-**customttt/CustomTTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CustomTTT: Motion and Appearance Customized Video Generation via Test-Time Training
 
 Here are some ideas to get you started:
 
